@@ -25,6 +25,11 @@ figcaption {
   text-align: center;
 }
 
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
 nav ol {
   font-family: "Patua One", sans-serif;
   list-style-type: none;
